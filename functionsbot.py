@@ -5,10 +5,11 @@ from twython import TwythonStreamer
 import tweepy
 from PIL import Image
 
-APP_KEY = "YT0n4XhQ3KqpuXw8IWSSh7jKV"
-APP_SECRET = "mh6fE1IzH4FoztO2hycfqTVAn95P7twwRCIIZmqyy3hN72eFpL"
-OAUTH_TOKEN = "709596278359896064-GwOOw4Ggy5gRWbZojIiSxEROEPhdwuX"
-OAUTH_TOKEN_SECRET = "z2twAX2MypbGZvCRZqSRE2uSFUyShqYzTScqVNLFvtE4O"
+#keys of Twitter app
+APP_KEY = "YT0n4XhQ3KqpuXwxxxxxxxxxx"
+APP_SECRET = "mh6fE1IzH4FoztOxxxxxxxxxxxxxxxxxxxxxxxxxxxxx72eFpL"
+OAUTH_TOKEN = "70959627mxxxxxxxxxxxxxxxxxxxxxxxxbZojIiSxEROEPhdwuX"
+OAUTH_TOKEN_SECRET = "z2twAX2MypbxxxxxxxxxxxxxxxhqYzTScqVNLFvtE4O"
 
 
 def publicphoto(photo):
