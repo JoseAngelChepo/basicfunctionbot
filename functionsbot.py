@@ -37,5 +37,5 @@ def tweets():
 
 #2 form for upload media
 def media(photo)
-	f = Image.open("location")
+	f = Image.open(photo)
 	api.update_with_media(status = 'status',media = f)
